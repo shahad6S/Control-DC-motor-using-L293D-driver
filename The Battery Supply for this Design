@@ -1,0 +1,7 @@
+considering this circuit we have a current consumption of due to these components
+
+Arduino ~ 50mA
+Two motors ~40mA
+ultrasonic sensor ~15mA (keeping in mind it is not added yet to this task, in particular, this circuit)
+total current 105mA if we wanted to run the circuit for 24hr then, Total better supply (hr.mA)= time x total current in the circuit
+total better supply = 24hr x 105mA = 2520 hr.mA
